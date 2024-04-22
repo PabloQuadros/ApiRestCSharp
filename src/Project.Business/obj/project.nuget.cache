@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "CKpZUtaq1IkS+gTnfzcrBeb+USCn1Phn3KDH4Mt83diqXOgo0wJsMkx2vlewwDPVmgWXjtGXME/v8fUdGJIIHg==",
+  "dgSpecHash": "zuePR00Yx9UiaHl9IMHN/XGJV+Jsi232GWHkt7SLo1MAAw6gwdocO7WoRSysOA4HQjO4Vsex8hlEPfFRBU6CPQ==",
   "success": true,
   "projectFilePath": "C:\\Projetos\\ApiRestCSharp\\src\\Project.Business\\Project.Business.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\pablo.quadros\\.nuget\\packages\\fluentvalidation\\11.9.0\\fluentvalidation.11.9.0.nupkg.sha512"
+  ],
   "logs": []
 }
